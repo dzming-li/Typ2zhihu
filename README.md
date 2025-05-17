@@ -1,0 +1,2 @@
+# Typ2zhihu
+帮助把typst文件转化为知乎可以识别的markdown文件
